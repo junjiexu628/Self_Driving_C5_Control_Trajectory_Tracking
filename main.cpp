@@ -265,7 +265,7 @@ int main ()
   //pid_throttle.Init(0.25,0.05,0.1,-1.0,1.0);
   
       //ninth try, adjust steer
-  pid_steer.Init(0.2,0.05,0.05,-1.2,1.2);
+  pid_steer.Init(0.2,0.05,0.5,-1.2,1.2);
   pid_throttle.Init(0.25,0.05,0.1,-1.0,1.0);
   
 
