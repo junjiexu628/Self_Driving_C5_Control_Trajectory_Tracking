@@ -18,3 +18,6 @@ In this project, you will apply the skills you have acquired in this course to d
 - Cons: PID controller is based on the feedback of the error, so it causes the delay of the control, its action is based the past situation. So in reality the steer control is not normal to implement the PID control. In addition, tuning the perfect parameters for PID controller is not easy.
 ## (Optional) What would you do to improve the PID controller?
 - Try and error is the traditional way. But it will take too much time. Maybe system identification is another way to make the nonlinear representation of the model. Or make the nonlinear model to represent on the linear model.
+
+## Acknowledgement
+- All mentors in Udacity and all students on the knowledge platform, your answers and support gives me great help. Appreciate all of you.
