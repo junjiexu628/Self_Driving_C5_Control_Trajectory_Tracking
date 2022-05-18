@@ -2,9 +2,16 @@
 
 # Proportional-Integral-Derivative (PID)
 
-In this project, you will apply the skills you have acquired in this course to design a PID controller to perform vehicle trajectory tracking. Given a trajectory as an array of locations, and a simulation environment, you will design and code a PID controller and test its efficiency on the CARLA simulator used in the industry.
+In this project, I will apply the skills that have acquired in this course to design a PID controller to perform vehicle trajectory tracking. Given a trajectory as an array of locations, and a simulation environment, I will design and code a PID controller and test its efficiency on the CARLA simulator used in the industry.
 
 ## Add the plots to your report and explain them (describe what you see)
+- First show the CARLA simulator environment and the ego vehicle situation on three critical positions.
+- ![environment](https://github.com/junjiexu628/Self_Driving_C5_Control_Trajectory_Tracking/blob/main/images/task1.png)
+- ![goal01](https://github.com/junjiexu628/Self_Driving_C5_Control_Trajectory_Tracking/blob/main/images/goal_01.png)
+- ![goal02](https://github.com/junjiexu628/Self_Driving_C5_Control_Trajectory_Tracking/blob/main/images/goal_02.png)
+- ![goal03](https://github.com/junjiexu628/Self_Driving_C5_Control_Trajectory_Tracking/blob/main/images/goal_03.png)
+- Then show the steer error and throttle error plots
+- 
 - 
 ## What is the effect of the PID according to the plots, how each part of the PID affects the control command?
 - PID is combined for Proportional, Intergral and Derivative. 
